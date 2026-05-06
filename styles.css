@@ -687,16 +687,36 @@ input:focus {
 .copyButton {
   display: inline-flex;
   align-items: center;
-  gap: 10px;
-  padding: 0 16px;
+  gap: 7px;
+  padding: 5px 12px 5px 8px;
+  height: 28px;
+  min-height: 0;
+  border-radius: 999px;
   white-space: nowrap;
+  font-size: 11.5px;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  transition: opacity 350ms cubic-bezier(0.32, 0.72, 0, 1),
+              transform 350ms cubic-bezier(0.32, 0.72, 0, 1);
+}
+
+.copyButton:hover {
+  opacity: 0.78;
+  transform: translateY(-1px);
+}
+
+.copyButton:active {
+  transform: scale(0.96);
+  opacity: 0.6;
 }
 
 .copyButtonDot {
-  width: 28px;
-  height: 28px;
+  flex-shrink: 0;
+  width: 14px;
+  height: 14px;
   border-radius: 999px;
   background: linear-gradient(135deg, #9c0d11, #ef1f24);
+  box-shadow: 0 0 6px rgba(239, 31, 36, 0.45);
 }
 
 .emptyState {
@@ -1121,11 +1141,14 @@ input {
 
 .roleChip,
 .ghostButton,
-.copyButton,
 .categoryButton,
 .dashboardArticle,
 .resultCard {
   border-radius: 4px;
+  background: rgba(255, 255, 255, 0.025);
+}
+
+.copyButton {
   background: rgba(255, 255, 255, 0.025);
 }
 
@@ -1249,8 +1272,7 @@ input {
 }
 
 .roleChip,
-.ghostButton,
-.copyButton {
+.ghostButton {
   min-height: 32px;
   font-size: 12px;
 }
@@ -1782,11 +1804,17 @@ input {
 
 .roleChip,
 .ghostButton,
-.copyButton,
 .categoryButton,
 .dashboardArticle,
 .resultCard {
   border-radius: var(--radius-md);
+  border: 1px solid var(--border);
+  background: var(--surface-2);
+  color: var(--text);
+  box-shadow: none;
+}
+
+.copyButton {
   border: 1px solid var(--border);
   background: var(--surface-2);
   color: var(--text);
@@ -2023,25 +2051,48 @@ button,
 }
 
 .readerActions {
-  display: grid;
-  gap: 8px;
-  min-width: 170px;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 6px;
+  min-width: 150px;
 }
 
-.readerActions .copyButton,
-.jumpMatchButton {
+.readerActions .copyButton {
   width: 100%;
+  justify-content: center;
 }
 
 .jumpMatchButton {
-  min-height: 34px;
-  border: 1px solid rgba(217, 16, 22, 0.62);
-  border-radius: var(--radius-md);
+  height: 28px;
+  padding: 0 14px;
+  border: none;
+  border-radius: 999px;
   background: linear-gradient(135deg, var(--brand), var(--brand-2));
   color: #fff;
-  font-weight: 900;
+  font-size: 11.5px;
+  font-weight: 600;
+  letter-spacing: 0.01em;
   cursor: pointer;
-  box-shadow: 0 12px 24px rgba(217, 16, 22, 0.18);
+  box-shadow: 0 4px 14px rgba(217, 16, 22, 0.28),
+              inset 0 1px 0 rgba(255, 255, 255, 0.12);
+  white-space: nowrap;
+  transition: box-shadow 350ms cubic-bezier(0.32, 0.72, 0, 1),
+              transform 350ms cubic-bezier(0.32, 0.72, 0, 1),
+              opacity 350ms cubic-bezier(0.32, 0.72, 0, 1);
+}
+
+.jumpMatchButton:hover {
+  box-shadow: 0 6px 20px rgba(217, 16, 22, 0.4),
+              inset 0 1px 0 rgba(255, 255, 255, 0.18);
+  transform: translateY(-1px);
+}
+
+.jumpMatchButton:active {
+  transform: scale(0.96);
+  opacity: 0.8;
+  box-shadow: 0 2px 8px rgba(217, 16, 22, 0.2),
+              inset 0 1px 0 rgba(255, 255, 255, 0.08);
 }
 
 .jumpMatchButton[hidden] {
