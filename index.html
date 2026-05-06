@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Manual de soporte</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <div class="pageGlow pageGlowA"></div>
+    <div class="pageGlow pageGlowB"></div>
+    <div class="pageGrid"></div>
+
+    <main class="shell">
+      <aside class="sidebar">
+        <div class="sidebarFrame">
+          <section class="brandBanner">
+            <p class="brandBannerTop">OPERACIÓN INTERNA</p>
+            <img class="brandLogoHero" src="/public/branding/club-sinergetico-logo.png" alt="Club Sinergetico" />
+            <p class="brandBannerText">Consulta rápida para soporte, ventas y seguimiento con criterio unificado.</p>
+            <button id="themeToggle" class="themeToggle" type="button" aria-pressed="false">Tema claro</button>
+          </section>
+
+          <section class="controlPanel">
+            <label class="field">
+              <span>Búsqueda</span>
+              <input id="searchInput" type="search" placeholder="buscar pago, skool, reembolso..." autocomplete="off" />
+            </label>
+
+            <div class="field">
+              <span>Perfil</span>
+              <div class="roleRail" id="roleRail">
+                <button class="roleChip active" type="button" data-role="soporte">Soporte</button>
+                <button class="roleChip" type="button" data-role="ventas">Ventas</button>
+                <button class="roleChip" type="button" data-role="admin">Admin</button>
+              </div>
+            </div>
+
+            <div class="statsGrid">
+              <div class="statCard">
+                <div class="statValue" id="visibleCount">0</div>
+                <div class="statLabel">Visibles</div>
+              </div>
+              <div class="statCard">
+                <div class="statValue" id="categoryCount">0</div>
+                <div class="statLabel">Categorías</div>
+              </div>
+            </div>
+          </section>
+
+          <section class="sideSection">
+            <div class="sectionHead">
+              <span class="miniLabel">Categorías</span>
+              <button id="clearButton" class="ghostButton" type="button">Limpiar</button>
+            </div>
+            <div id="categoryList" class="categoryList"></div>
+          </section>
+
+        </div>
+      </aside>
+
+      <section class="mainPane">
+        <header class="hero">
+          <div class="heroCopy">
+            <p class="miniLabel" id="activeRole">Vista de soporte</p>
+            <h2>Centro operativo Club Sinergético.</h2>
+            <p class="heroText">
+              Encuentra procesos, guiones e informaci?n sensible sin perder contexto.
+            </p>
+          </div>
+
+          <div class="heroCards">
+            <article class="heroCard">
+              <span class="heroCardLabel">Resultado actual</span>
+              <strong id="resultTitle">Artículos disponibles</strong>
+              <p id="resultSummary">Estamos cargando tu manual.</p>
+            </article>
+            <article class="heroCard heroCardAccent">
+              <span class="heroCardLabel">Modo operativo</span>
+              <strong>Soporte, ventas y seguimiento</strong>
+              <p>Diseñado para consultas rápidas, respuestas consistentes y atención alineada con la marca.</p>
+            </article>
+          </div>
+        </header>
+
+        <div class="workspace">
+          <section class="resultsPanel">
+            <div class="panelHeader">
+              <div>
+                <p class="miniLabel">Resultados</p>
+                <h3>Artículos filtrados</h3>
+              </div>
+            </div>
+
+            <div id="results" class="results"></div>
+          </section>
+
+          <article class="readerPanel" id="reader">
+            <div class="emptyState">
+              <div class="emptyFrame">
+                <p class="miniLabel">Lector</p>
+                <strong>Selecciona un artículo para abrirlo aqui.</strong>
+              </div>
+            </div>
+          </article>
+        </div>
+      </section>
+    </main>
+
+    <div class="toast" id="toast" aria-live="polite"></div>
+    <script src="/app.js"></script>
+  </body>
+</html>

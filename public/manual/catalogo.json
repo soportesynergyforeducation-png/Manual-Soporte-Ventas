@@ -1,0 +1,717 @@
+[
+  {
+    "id": "manual-maestro-de-atencion-y-resolucion-de-disputas-club-sinergetico",
+    "titulo": "Manual Maestro de Atención y Resolución de Disputas Club Sinergético",
+    "categoria": "Manuales maestros e índices",
+    "categoriaId": "00-manuales-maestros",
+    "audiencia": [
+      "admin",
+      "soporte"
+    ],
+    "palabrasClave": [
+      "clase",
+      "reembolso",
+      "club",
+      "manual",
+      "maestro",
+      "atenci",
+      "resoluci",
+      "disputas",
+      "sinerg",
+      "tico"
+    ],
+    "archivo": "contenido/00-manuales-maestros/manual-maestro-de-atencion-y-resolucion-de-disputas-club-sinergetico.md",
+    "imagenes": [],
+    "origen": "Privado y Compartido/MANUAL OPERATIVO SOPORTE/Manual Maestro de Atención y Resolución de Disputa 2b1c9a8364ce806989b4e989f9f2e9f4.md",
+    "encodingDetectado": "utf-8-sig"
+  },
+  {
+    "id": "manual-operativo-soporte",
+    "titulo": "MANUAL OPERATIVO SOPORTE",
+    "categoria": "Manuales maestros e índices",
+    "categoriaId": "00-manuales-maestros",
+    "audiencia": [
+      "admin",
+      "soporte"
+    ],
+    "palabrasClave": [
+      "comunidad",
+      "evento",
+      "club",
+      "manual",
+      "operativo",
+      "soporte"
+    ],
+    "archivo": "contenido/00-manuales-maestros/manual-operativo-soporte.md",
+    "imagenes": [
+      "../../assets/manual-operativo-soporte/captura-de-pantalla-2025-05-30-a-las-12-44-36-p-m.png",
+      "../../assets/manual-operativo-soporte/captura-de-pantalla-2025-05-30-a-las-12-41-50-p-m.png",
+      "../../assets/manual-operativo-soporte/image.png",
+      "../../assets/manual-operativo-soporte/image-1.png",
+      "../../assets/manual-operativo-soporte/image-2.png",
+      "../../assets/manual-operativo-soporte/image-3.png",
+      "../../assets/manual-operativo-soporte/image-4.png",
+      "../../assets/manual-operativo-soporte/image-5.png",
+      "../../assets/manual-operativo-soporte/image-6.png",
+      "../../assets/manual-operativo-soporte/image-7.png",
+      "../../assets/manual-operativo-soporte/image-8.png",
+      "../../assets/manual-operativo-soporte/image-9.png",
+      "../../assets/manual-operativo-soporte/image-10.png",
+      "../../assets/manual-operativo-soporte/image-11.png",
+      "../../assets/manual-operativo-soporte/image-12.png",
+      "../../assets/manual-operativo-soporte/image-13.png",
+      "../../assets/manual-operativo-soporte/image-14.png",
+      "../../assets/manual-operativo-soporte/image-15.png",
+      "../../assets/manual-operativo-soporte/image-16.png",
+      "../../assets/manual-operativo-soporte/image-17.png",
+      "../../assets/manual-operativo-soporte/image-18.png",
+      "../../assets/manual-operativo-soporte/image-19.png",
+      "../../assets/manual-operativo-soporte/image-20.png",
+      "../../assets/manual-operativo-soporte/image-21.png",
+      "../../assets/manual-operativo-soporte/captura-de-pantalla-2025-05-28-a-las-5-36-24-p-m.png",
+      "../../assets/manual-operativo-soporte/captura-de-pantalla-2025-05-28-a-las-5-39-08-p-m.png",
+      "../../assets/manual-operativo-soporte/captura-de-pantalla-2025-05-28-a-las-5-40-38-p-m.png"
+    ],
+    "origen": "Privado y Compartido/MANUAL OPERATIVO SOPORTE 200c9a8364ce80618552d3c286cd8a77.md",
+    "encodingDetectado": "utf-8-sig"
+  },
+  {
+    "id": "idioma-en-skool",
+    "titulo": "IDIOMA EN SKOOL",
+    "categoria": "Accesos, plataformas y clases",
+    "categoriaId": "01-accesos-plataformas",
+    "audiencia": [
+      "admin",
+      "soporte"
+    ],
+    "palabrasClave": [
+      "skool",
+      "idioma"
+    ],
+    "archivo": "contenido/01-accesos-plataformas/idioma-en-skool.md",
+    "imagenes": [],
+    "origen": "Privado y Compartido/MANUAL OPERATIVO SOPORTE/IDIOMA EN SKOOL 293c9a8364ce802a88bbc1f71c95058b.md",
+    "encodingDetectado": "utf-8-sig"
+  },
+  {
+    "id": "me-aparece-correo-en-uso-skool",
+    "titulo": "Me aparece correo en uso Skool",
+    "categoria": "Accesos, plataformas y clases",
+    "categoriaId": "01-accesos-plataformas",
+    "audiencia": [
+      "admin",
+      "soporte"
+    ],
+    "palabrasClave": [
+      "acceso",
+      "skool",
+      "aparece",
+      "correo"
+    ],
+    "archivo": "contenido/01-accesos-plataformas/me-aparece-correo-en-uso-skool.md",
+    "imagenes": [
+      "../../assets/me-aparece-correo-en-uso-skool/captura-de-pantalla-2026-01-27-a-las-12-37-57-p-m.png",
+      "../../assets/me-aparece-correo-en-uso-skool/captura-de-pantalla-2026-01-27-a-las-12-39-29-p-m.png"
+    ],
+    "origen": "Privado y Compartido/MANUAL OPERATIVO SOPORTE/Me aparece correo en uso Skool 2f5c9a8364ce80eb9da4e17203f69c8b.md",
+    "encodingDetectado": "utf-8-sig"
+  },
+  {
+    "id": "me-saca-de-zoom",
+    "titulo": "Me saca de zoom",
+    "categoria": "Accesos, plataformas y clases",
+    "categoriaId": "01-accesos-plataformas",
+    "audiencia": [
+      "admin",
+      "soporte"
+    ],
+    "palabrasClave": [
+      "zoom",
+      "saca"
+    ],
+    "archivo": "contenido/01-accesos-plataformas/me-saca-de-zoom.md",
+    "imagenes": [],
+    "origen": "Privado y Compartido/MANUAL OPERATIVO SOPORTE/Me saca de zoom 201c9a8364ce807eb679d37633b826a6.md",
+    "encodingDetectado": "utf-8-sig"
+  },
+  {
+    "id": "no-encuentro-la-app-kajabi",
+    "titulo": "No encuentro la app Kajabi",
+    "categoria": "Accesos, plataformas y clases",
+    "categoriaId": "01-accesos-plataformas",
+    "audiencia": [
+      "admin",
+      "soporte"
+    ],
+    "palabrasClave": [
+      "kajabi",
+      "club",
+      "encuentro"
+    ],
+    "archivo": "contenido/01-accesos-plataformas/no-encuentro-la-app-kajabi.md",
+    "imagenes": [
+      "../../assets/no-encuentro-la-app-kajabi/whatsapp-image-2026-01-27-at-12-27-59-pm.jpeg",
+      "../../assets/no-encuentro-la-app-kajabi/captura-de-pantalla-2025-05-28-a-las-4-51-05-p-m.png"
+    ],
+    "origen": "Privado y Compartido/MANUAL OPERATIVO SOPORTE/No encuentro la app Kajabi 201c9a8364ce80ceae7fc452f6748719.md",
+    "encodingDetectado": "utf-8-sig"
+  },
+  {
+    "id": "no-me-ha-llegado-la-invitacion-a-skool",
+    "titulo": "No me ha llegado la invitación a Skool",
+    "categoria": "Accesos, plataformas y clases",
+    "categoriaId": "01-accesos-plataformas",
+    "audiencia": [
+      "admin",
+      "soporte"
+    ],
+    "palabrasClave": [
+      "skool",
+      "llegado",
+      "invitaci"
+    ],
+    "archivo": "contenido/01-accesos-plataformas/no-me-ha-llegado-la-invitacion-a-skool.md",
+    "imagenes": [],
+    "origen": "Privado y Compartido/MANUAL OPERATIVO SOPORTE/No me ha llegado la invitación a Skool 2f5c9a8364ce80039645e60bcf032143.md",
+    "encodingDetectado": "utf-8-sig"
+  },
+  {
+    "id": "no-tengo-acceso-a-la-plataforma",
+    "titulo": "No tengo acceso a la plataforma",
+    "categoria": "Accesos, plataformas y clases",
+    "categoriaId": "01-accesos-plataformas",
+    "audiencia": [
+      "admin",
+      "soporte"
+    ],
+    "palabrasClave": [
+      "acceso",
+      "kajabi",
+      "seguimiento",
+      "tengo",
+      "plataforma"
+    ],
+    "archivo": "contenido/01-accesos-plataformas/no-tengo-acceso-a-la-plataforma.md",
+    "imagenes": [
+      "../../assets/no-tengo-acceso-a-la-plataforma/captura-de-pantalla-2025-05-28-a-las-12-32-55-p-m.png",
+      "../../assets/no-tengo-acceso-a-la-plataforma/captura-de-pantalla-2025-05-28-a-las-12-31-57-p-m.png",
+      "../../assets/no-tengo-acceso-a-la-plataforma/captura-de-pantalla-2025-05-28-a-las-12-30-31-p-m.png",
+      "../../assets/no-tengo-acceso-a-la-plataforma/captura-de-pantalla-2025-05-28-a-las-12-36-10-p-m.png",
+      "../../assets/no-tengo-acceso-a-la-plataforma/captura-de-pantalla-2025-05-28-a-las-12-37-21-p-m.png"
+    ],
+    "origen": "Privado y Compartido/MANUAL OPERATIVO SOPORTE/No tengo acceso a la plataforma 201c9a8364ce80048430eadd580b9699.md",
+    "encodingDetectado": "utf-8-sig"
+  },
+  {
+    "id": "no-tengo-mi-contrasena",
+    "titulo": "No tengo mi contraseña",
+    "categoria": "Accesos, plataformas y clases",
+    "categoriaId": "01-accesos-plataformas",
+    "audiencia": [
+      "admin",
+      "soporte"
+    ],
+    "palabrasClave": [
+      "kajabi",
+      "seguimiento",
+      "tengo",
+      "contrase"
+    ],
+    "archivo": "contenido/01-accesos-plataformas/no-tengo-mi-contrasena.md",
+    "imagenes": [
+      "../../assets/no-tengo-mi-contrasena/captura-de-pantalla-2025-05-28-a-las-12-49-17-p-m.png",
+      "../../assets/no-tengo-mi-contrasena/captura-de-pantalla-2025-05-28-a-las-12-49-43-p-m.png"
+    ],
+    "origen": "Privado y Compartido/MANUAL OPERATIVO SOPORTE/No tengo mi contraseña 201c9a8364ce80b491a1e10546835829.md",
+    "encodingDetectado": "utf-8-sig"
+  },
+  {
+    "id": "pague-y-no-me-dieron-acceso-al-club",
+    "titulo": "Pague y no me dieron acceso al club",
+    "categoria": "Accesos, plataformas y clases",
+    "categoriaId": "01-accesos-plataformas",
+    "audiencia": [
+      "admin",
+      "soporte"
+    ],
+    "palabrasClave": [
+      "acceso",
+      "pago",
+      "club",
+      "pague",
+      "dieron"
+    ],
+    "archivo": "contenido/01-accesos-plataformas/pague-y-no-me-dieron-acceso-al-club.md",
+    "imagenes": [],
+    "origen": "Privado y Compartido/MANUAL OPERATIVO SOPORTE/Pague y no me dieron acceso al club 201c9a8364ce8003afc6d7c5f54df6fa.md",
+    "encodingDetectado": "utf-8-sig"
+  },
+  {
+    "id": "como-encuentro-la-clase-que-perdin",
+    "titulo": "¿Cómo encuentro la clase que perdí?",
+    "categoria": "Accesos, plataformas y clases",
+    "categoriaId": "01-accesos-plataformas",
+    "audiencia": [
+      "admin",
+      "soporte"
+    ],
+    "palabrasClave": [
+      "skool",
+      "kajabi",
+      "clase",
+      "encuentro",
+      "perd"
+    ],
+    "archivo": "contenido/01-accesos-plataformas/como-encuentro-la-clase-que-perdin.md",
+    "imagenes": [
+      "../../assets/como-encuentro-la-clase-que-perdin/captura-de-pantalla-2025-05-28-a-las-12-43-36-p-m.png",
+      "../../assets/como-encuentro-la-clase-que-perdin/captura-de-pantalla-2025-05-28-a-las-12-46-18-p-m.png",
+      "../../assets/como-encuentro-la-clase-que-perdin/captura-de-pantalla-2025-05-28-a-las-12-45-12-p-m.png",
+      "../../assets/como-encuentro-la-clase-que-perdin/captura-de-pantalla-2026-01-27-a-las-11-58-50-a-m.png"
+    ],
+    "origen": "Privado y Compartido/MANUAL OPERATIVO SOPORTE/¿Cómo encuentro la clase que perdí 201c9a8364ce8058be6ef726bad64cd7.md",
+    "encodingDetectado": "utf-8-sig"
+  },
+  {
+    "id": "como-ingreso-a-mi-comunidadn",
+    "titulo": "¿Cómo ingreso a mi comunidad?",
+    "categoria": "Accesos, plataformas y clases",
+    "categoriaId": "01-accesos-plataformas",
+    "audiencia": [
+      "admin",
+      "soporte"
+    ],
+    "palabrasClave": [
+      "acceso",
+      "comunidad",
+      "titular",
+      "evento",
+      "ingreso",
+      "comunidad?"
+    ],
+    "archivo": "contenido/01-accesos-plataformas/como-ingreso-a-mi-comunidadn.md",
+    "imagenes": [
+      "../../assets/como-ingreso-a-mi-comunidadn/captura-de-pantalla-2025-05-28-a-las-1-30-30-p-m.png"
+    ],
+    "origen": "Privado y Compartido/MANUAL OPERATIVO SOPORTE/¿Cómo ingreso a mi comunidad 201c9a8364ce8025b61ec37369f80d8e.md",
+    "encodingDetectado": "utf-8-sig"
+  },
+  {
+    "id": "aceptamos-cripto",
+    "titulo": "Aceptamos Cripto",
+    "categoria": "Pagos, cobros, facturación y reembolsos",
+    "categoriaId": "02-pagos-cobros-reembolsos",
+    "audiencia": [
+      "admin",
+      "soporte",
+      "ventas"
+    ],
+    "palabrasClave": [
+      "cripto",
+      "aceptamos"
+    ],
+    "archivo": "contenido/02-pagos-cobros-reembolsos/aceptamos-cripto.md",
+    "imagenes": [
+      "../../assets/aceptamos-cripto/whatsapp-image-2025-06-16-at-11-50-33-am.jpeg"
+    ],
+    "origen": "Privado y Compartido/MANUAL OPERATIVO SOPORTE/Aceptamos Cripto 214c9a8364ce801ead40d95748178da1.md",
+    "encodingDetectado": "utf-8-sig"
+  },
+  {
+    "id": "deseo-factura",
+    "titulo": "Deseo factura",
+    "categoria": "Pagos, cobros, facturación y reembolsos",
+    "categoriaId": "02-pagos-cobros-reembolsos",
+    "audiencia": [
+      "admin",
+      "soporte",
+      "ventas"
+    ],
+    "palabrasClave": [
+      "pago",
+      "factura",
+      "deseo"
+    ],
+    "archivo": "contenido/02-pagos-cobros-reembolsos/deseo-factura.md",
+    "imagenes": [],
+    "origen": "Privado y Compartido/MANUAL OPERATIVO SOPORTE/Deseo factura 201c9a8364ce80ea9e99c4300292f3e2.md",
+    "encodingDetectado": "utf-8-sig"
+  },
+  {
+    "id": "me-cobraron-de-mas",
+    "titulo": "Me cobraron de más",
+    "categoria": "Pagos, cobros, facturación y reembolsos",
+    "categoriaId": "02-pagos-cobros-reembolsos",
+    "audiencia": [
+      "admin",
+      "soporte",
+      "ventas"
+    ],
+    "palabrasClave": [
+      "pago",
+      "club",
+      "cobraron"
+    ],
+    "archivo": "contenido/02-pagos-cobros-reembolsos/me-cobraron-de-mas.md",
+    "imagenes": [
+      "../../assets/me-cobraron-de-mas/captura-de-pantalla-2025-05-28-a-las-1-22-46-p-m.png"
+    ],
+    "origen": "Privado y Compartido/MANUAL OPERATIVO SOPORTE/Me cobraron de más 201c9a8364ce80aba5badf46c689d514.md",
+    "encodingDetectado": "utf-8-sig"
+  },
+  {
+    "id": "me-cobraron-el-monto-total",
+    "titulo": "Me cobraron el monto total",
+    "categoria": "Pagos, cobros, facturación y reembolsos",
+    "categoriaId": "02-pagos-cobros-reembolsos",
+    "audiencia": [
+      "admin",
+      "soporte",
+      "ventas"
+    ],
+    "palabrasClave": [
+      "cobraron",
+      "monto",
+      "total"
+    ],
+    "archivo": "contenido/02-pagos-cobros-reembolsos/me-cobraron-el-monto-total.md",
+    "imagenes": [],
+    "origen": "Privado y Compartido/MANUAL OPERATIVO SOPORTE/Me cobraron el monto total 201c9a8364ce80b2b333cac13f5a5de4.md",
+    "encodingDetectado": "utf-8-sig"
+  },
+  {
+    "id": "mi-pago-era-a-meses-y-se-fue-de-contado",
+    "titulo": "Mi pago era a meses y se fue de contado",
+    "categoria": "Pagos, cobros, facturación y reembolsos",
+    "categoriaId": "02-pagos-cobros-reembolsos",
+    "audiencia": [
+      "admin",
+      "soporte",
+      "ventas"
+    ],
+    "palabrasClave": [
+      "acceso",
+      "pago",
+      "cobro",
+      "reembolso",
+      "evento",
+      "meses",
+      "contado"
+    ],
+    "archivo": "contenido/02-pagos-cobros-reembolsos/mi-pago-era-a-meses-y-se-fue-de-contado.md",
+    "imagenes": [],
+    "origen": "Privado y Compartido/MANUAL OPERATIVO SOPORTE/Mi pago era a meses y se fue de contado 201c9a8364ce80b084b8e154a2c14e3d.md",
+    "encodingDetectado": "utf-8-sig"
+  },
+  {
+    "id": "pague-en-evento-a-meses-y-se-cobro-de-contado",
+    "titulo": "Pague en evento a meses y se cobro de contado",
+    "categoria": "Pagos, cobros, facturación y reembolsos",
+    "categoriaId": "02-pagos-cobros-reembolsos",
+    "audiencia": [
+      "admin",
+      "soporte",
+      "ventas"
+    ],
+    "palabrasClave": [
+      "pago",
+      "cobro",
+      "evento",
+      "pague",
+      "meses",
+      "contado"
+    ],
+    "archivo": "contenido/02-pagos-cobros-reembolsos/pague-en-evento-a-meses-y-se-cobro-de-contado.md",
+    "imagenes": [],
+    "origen": "Privado y Compartido/MANUAL OPERATIVO SOPORTE/Pague en evento a meses y se cobro de contado 208c9a8364ce809a82ebeb18658ea770.md",
+    "encodingDetectado": "utf-8-sig"
+  },
+  {
+    "id": "reembolso-desde-terminal-mp",
+    "titulo": "Reembolso desde terminal MP",
+    "categoria": "Pagos, cobros, facturación y reembolsos",
+    "categoriaId": "02-pagos-cobros-reembolsos",
+    "audiencia": [
+      "admin",
+      "soporte"
+    ],
+    "palabrasClave": [
+      "pago",
+      "cobro",
+      "reembolso",
+      "factura",
+      "evento",
+      "desde",
+      "terminal"
+    ],
+    "archivo": "contenido/02-pagos-cobros-reembolsos/reembolso-desde-terminal-mp.md",
+    "imagenes": [],
+    "origen": "Privado y Compartido/MANUAL OPERATIVO SOPORTE/Reembolso desde terminal MP 249c9a8364ce801480d7debe2fc389d5.md",
+    "encodingDetectado": "utf-8-sig"
+  },
+  {
+    "id": "cambiar-de-titular",
+    "titulo": "Cambiar de titular",
+    "categoria": "Membresías, titulares y certificados",
+    "categoriaId": "03-membresias-cambios",
+    "audiencia": [
+      "admin",
+      "soporte"
+    ],
+    "palabrasClave": [
+      "acceso",
+      "kajabi",
+      "pago",
+      "titular",
+      "seguimiento",
+      "club",
+      "cambiar"
+    ],
+    "archivo": "contenido/03-membresias-cambios/cambiar-de-titular.md",
+    "imagenes": [
+      "../../assets/cambiar-de-titular/captura-de-pantalla-2025-05-28-a-las-3-19-39-p-m.png",
+      "../../assets/cambiar-de-titular/captura-de-pantalla-2025-05-28-a-las-3-21-36-p-m.png"
+    ],
+    "origen": "Privado y Compartido/MANUAL OPERATIVO SOPORTE/Cambiar de titular 201c9a8364ce80c4ab28d640db90fab7.md",
+    "encodingDetectado": "utf-8-sig"
+  },
+  {
+    "id": "mi-certificado-salio-con-el-nombre-incorrecto",
+    "titulo": "Mi certificado salió con el nombre incorrecto",
+    "categoria": "Membresías, titulares y certificados",
+    "categoriaId": "03-membresias-cambios",
+    "audiencia": [
+      "admin",
+      "soporte"
+    ],
+    "palabrasClave": [
+      "titular",
+      "certificado",
+      "sali",
+      "nombre",
+      "incorrecto"
+    ],
+    "archivo": "contenido/03-membresias-cambios/mi-certificado-salio-con-el-nombre-incorrecto.md",
+    "imagenes": [],
+    "origen": "Privado y Compartido/MANUAL OPERATIVO SOPORTE/Mi certificado salió con el nombre incorrecto 201c9a8364ce802da328e8823ffd0ded.md",
+    "encodingDetectado": "utf-8-sig"
+  },
+  {
+    "id": "pausa-en-membresia",
+    "titulo": "Pausa en membresía",
+    "categoria": "Membresías, titulares y certificados",
+    "categoriaId": "03-membresias-cambios",
+    "audiencia": [
+      "admin",
+      "soporte"
+    ],
+    "palabrasClave": [
+      "kajabi",
+      "seguimiento",
+      "pausa",
+      "membres"
+    ],
+    "archivo": "contenido/03-membresias-cambios/pausa-en-membresia.md",
+    "imagenes": [
+      "../../assets/pausa-en-membresia/captura-de-pantalla-2025-05-28-a-las-4-41-02-p-m.png",
+      "../../assets/pausa-en-membresia/captura-de-pantalla-2025-05-28-a-las-4-41-52-p-m.png"
+    ],
+    "origen": "Privado y Compartido/MANUAL OPERATIVO SOPORTE/Pausa en membresía 201c9a8364ce80dab3edc85d9b2c3929.md",
+    "encodingDetectado": "utf-8-sig"
+  },
+  {
+    "id": "vencio-mi-membresia",
+    "titulo": "Venció mi membresía",
+    "categoria": "Membresías, titulares y certificados",
+    "categoriaId": "03-membresias-cambios",
+    "audiencia": [
+      "admin",
+      "soporte"
+    ],
+    "palabrasClave": [
+      "skool",
+      "kajabi",
+      "venci",
+      "membres"
+    ],
+    "archivo": "contenido/03-membresias-cambios/vencio-mi-membresia.md",
+    "imagenes": [],
+    "origen": "Privado y Compartido/MANUAL OPERATIVO SOPORTE/Venció mi membresía 201c9a8364ce808b8ad2ed378cfa72af.md",
+    "encodingDetectado": "utf-8-sig"
+  },
+  {
+    "id": "asesoria-personalizada",
+    "titulo": "Asesoría personalizada",
+    "categoria": "Ventas, eventos y seguimiento",
+    "categoriaId": "04-ventas-eventos-seguimiento",
+    "audiencia": [
+      "admin",
+      "soporte",
+      "ventas"
+    ],
+    "palabrasClave": [
+      "clase",
+      "club",
+      "asesor",
+      "personalizada"
+    ],
+    "archivo": "contenido/04-ventas-eventos-seguimiento/asesoria-personalizada.md",
+    "imagenes": [],
+    "origen": "Privado y Compartido/MANUAL OPERATIVO SOPORTE/Asesoría personalizada 201c9a8364ce80a1b21afa5b76afabfa.md",
+    "encodingDetectado": "utf-8-sig"
+  },
+  {
+    "id": "deje-apartado-y-ya-no-me-contactaron",
+    "titulo": "Deje apartado y ya no me contactaron",
+    "categoria": "Ventas, eventos y seguimiento",
+    "categoriaId": "04-ventas-eventos-seguimiento",
+    "audiencia": [
+      "admin",
+      "soporte",
+      "ventas"
+    ],
+    "palabrasClave": [
+      "kajabi",
+      "pago",
+      "cripto",
+      "deje",
+      "apartado",
+      "contactaron"
+    ],
+    "archivo": "contenido/04-ventas-eventos-seguimiento/deje-apartado-y-ya-no-me-contactaron.md",
+    "imagenes": [],
+    "origen": "Privado y Compartido/MANUAL OPERATIVO SOPORTE/Deje apartado y ya no me contactaron 201c9a8364ce800ab1cbd4d7694fe359.md",
+    "encodingDetectado": "utf-8-sig"
+  },
+  {
+    "id": "quiero-asistir-a-evento",
+    "titulo": "Quiero asistir a “Evento”",
+    "categoria": "Ventas, eventos y seguimiento",
+    "categoriaId": "04-ventas-eventos-seguimiento",
+    "audiencia": [
+      "admin",
+      "soporte",
+      "ventas"
+    ],
+    "palabrasClave": [
+      "acceso",
+      "evento",
+      "club",
+      "quiero",
+      "asistir"
+    ],
+    "archivo": "contenido/04-ventas-eventos-seguimiento/quiero-asistir-a-evento.md",
+    "imagenes": [],
+    "origen": "Privado y Compartido/MANUAL OPERATIVO SOPORTE/Quiero asistir a “Evento” 201c9a8364ce80ca961fe33d2a002a7c.md",
+    "encodingDetectado": "utf-8-sig"
+  },
+  {
+    "id": "quiero-compartirle-algo-a-jorge-o-manuel",
+    "titulo": "Quiero compartirle algo a Jorge o Manuel",
+    "categoria": "Ventas, eventos y seguimiento",
+    "categoriaId": "04-ventas-eventos-seguimiento",
+    "audiencia": [
+      "admin",
+      "soporte",
+      "ventas"
+    ],
+    "palabrasClave": [
+      "seguimiento",
+      "club",
+      "quiero",
+      "compartirle",
+      "algo",
+      "jorge",
+      "manuel"
+    ],
+    "archivo": "contenido/04-ventas-eventos-seguimiento/quiero-compartirle-algo-a-jorge-o-manuel.md",
+    "imagenes": [],
+    "origen": "Privado y Compartido/MANUAL OPERATIVO SOPORTE/Quiero compartirle algo a Jorge o Manuel 201c9a8364ce8045a625e650317b46aa.md",
+    "encodingDetectado": "utf-8-sig"
+  },
+  {
+    "id": "quiero-que-me-marquen",
+    "titulo": "Quiero que me marquen",
+    "categoria": "Ventas, eventos y seguimiento",
+    "categoriaId": "04-ventas-eventos-seguimiento",
+    "audiencia": [
+      "admin",
+      "soporte",
+      "ventas"
+    ],
+    "palabrasClave": [
+      "seguimiento",
+      "horarios",
+      "quiero",
+      "marquen"
+    ],
+    "archivo": "contenido/04-ventas-eventos-seguimiento/quiero-que-me-marquen.md",
+    "imagenes": [
+      "../../assets/quiero-que-me-marquen/captura-de-pantalla-2025-05-28-a-las-5-04-27-p-m.png"
+    ],
+    "origen": "Privado y Compartido/MANUAL OPERATIVO SOPORTE/Quiero que me marquen 201c9a8364ce80948e93ecc77b37f9fb.md",
+    "encodingDetectado": "utf-8-sig"
+  },
+  {
+    "id": "donde-encuentro-los-bots-de-manueln",
+    "titulo": "¿Dónde encuentro los Bots de Manuel?",
+    "categoria": "Ventas, eventos y seguimiento",
+    "categoriaId": "04-ventas-eventos-seguimiento",
+    "audiencia": [
+      "admin",
+      "soporte",
+      "ventas"
+    ],
+    "palabrasClave": [
+      "clase",
+      "bots",
+      "encuentro",
+      "manuel?"
+    ],
+    "archivo": "contenido/04-ventas-eventos-seguimiento/donde-encuentro-los-bots-de-manueln.md",
+    "imagenes": [],
+    "origen": "Privado y Compartido/MANUAL OPERATIVO SOPORTE/¿Dónde encuentro los Bots de Manuel 201c9a8364ce80199ef1d0759fd4c444.md",
+    "encodingDetectado": "utf-8-sig"
+  },
+  {
+    "id": "contenido-sobre-sitios-web",
+    "titulo": "Contenido sobre sitios Web",
+    "categoria": "Contenido web y operación",
+    "categoriaId": "05-contenido-web-operacion",
+    "audiencia": [
+      "admin",
+      "soporte",
+      "ventas"
+    ],
+    "palabrasClave": [
+      "contenido",
+      "sobre",
+      "sitios"
+    ],
+    "archivo": "contenido/05-contenido-web-operacion/contenido-sobre-sitios-web.md",
+    "imagenes": [
+      "../../assets/contenido-sobre-sitios-web/captura-de-pantalla-2025-05-28-a-las-3-40-38-p-m.png"
+    ],
+    "origen": "Privado y Compartido/MANUAL OPERATIVO SOPORTE/Contenido sobre sitios Web 201c9a8364ce80a69b17ea90266b4f3f.md",
+    "encodingDetectado": "utf-8-sig"
+  },
+  {
+    "id": "horarios-de-clase",
+    "titulo": "Horarios de clase",
+    "categoria": "Contenido web y operación",
+    "categoriaId": "05-contenido-web-operacion",
+    "audiencia": [
+      "admin",
+      "soporte",
+      "ventas"
+    ],
+    "palabrasClave": [
+      "clase",
+      "horarios"
+    ],
+    "archivo": "contenido/05-contenido-web-operacion/horarios-de-clase.md",
+    "imagenes": [],
+    "origen": "Privado y Compartido/MANUAL OPERATIVO SOPORTE/Horarios de clase 201c9a8364ce8054999bd61bc03e2f8f.md",
+    "encodingDetectado": "utf-8-sig"
+  }
+]
