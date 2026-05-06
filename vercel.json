@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/manual/(.*)", "destination": "/public/manual/$1" }
+  ]
+}
