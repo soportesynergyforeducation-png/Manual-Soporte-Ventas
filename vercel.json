@@ -1,5 +1,8 @@
 {
   "version": 2,
+  "buildCommand": "",
+  "outputDirectory": ".",
+  "framework": null,
   "routes": [
     { "src": "/manual/(.*)", "dest": "/public/manual/$1" },
     { "src": "/(.*)", "dest": "/$1" }
