@@ -1740,20 +1740,45 @@ body::before,
   cursor: pointer;
 }
 
-.controlPanel,
-.sideSection {
-  padding: 10px;
+.controlPanel {
+  padding: 8px 10px;
 }
 
 .sideSection {
+  padding: 8px 10px 10px;
   min-height: 0;
+  display: flex;
+  flex-direction: column;
   overflow: hidden;
 }
 
+.sideSection .sectionHead {
+  flex-shrink: 0;
+}
+
 .categoryList {
-  max-height: calc(100vh - 354px);
-  overflow: auto;
+  flex: 1;
+  min-height: 0;
+  overflow-y: auto;
   padding-right: 3px;
+}
+
+.statsGrid {
+  gap: 6px;
+  margin-top: 8px;
+}
+
+.statCard {
+  padding: 7px 9px;
+}
+
+.statValue {
+  font-size: 18px;
+}
+
+.statLabel {
+  margin-top: 3px;
+  font-size: 11px;
 }
 
 h1,
